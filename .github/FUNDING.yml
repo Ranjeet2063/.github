@@ -1,0 +1,5 @@
+# Default Community Funding Configuration for Ranjeet2063
+# Automatically displays "Sponsor" button across all public repositories
+
+github: [Ranjeet2063]
+custom: ['https://ranjeet2063.github.io']
